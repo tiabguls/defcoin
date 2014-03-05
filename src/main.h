@@ -623,7 +623,7 @@ public:
     {
         // Large (in bytes) low-priority (new, small-coin) transactions
         // need a fee.
-        return dPriority > COIN * 576 / 250;
+        return dPriority > COIN * 720 / 250;
     }
 
 // Apply the effects of this transaction on the UTXO set represented by view

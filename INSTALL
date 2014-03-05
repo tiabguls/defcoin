@@ -1,9 +1,9 @@
-Building Litecoin
+Building defcoin
 
-See doc/readme-qt.rst for instructions on building Litecoin-Qt,
+See doc/readme-qt.rst for instructions on building defcoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Litecoin.
+implementation of defcoin.
 
-See doc/build-*.txt for instructions on building litecoind,
+See doc/build-*.txt for instructions on building defcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Litecoin.
+implementation of defcoin.

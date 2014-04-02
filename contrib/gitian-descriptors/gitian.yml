@@ -1,7 +1,7 @@
 ---
 name: "defcoin"
 suites:
-- "lucid"
+- "precise"
 architectures:
 - "i386"
 - "amd64"
@@ -20,7 +20,7 @@ packages:
 - "libpng12-dev"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/defcoin-project/defcoin.git"
+- "url": "https://github.com/tiabguls/defcoin.git"
   "dir": "defcoin"
 files:
 - "miniupnpc-1.6.tar.gz"
